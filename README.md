@@ -88,3 +88,7 @@ Our learned priors can be found [here](https://livejohnshopkins-my.sharepoint.co
   year={2022}
 }
 ```
+
+### TO DO
+- source & target task: both on CIFAR10
+- how does the uncertainty of the representation g(x) look like?
